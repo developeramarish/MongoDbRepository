@@ -1,0 +1,13 @@
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository\bin\Debug\MongoDbRepository.dll.config
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository\bin\Debug\MongoDbRepository.dll
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository\bin\Debug\MongoDbRepository.pdb
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository\bin\Debug\MongoDB.Bson.dll
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository\bin\Debug\MongoDB.Driver.dll
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository\bin\Debug\MongoDB.Bson.xml
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository\bin\Debug\MongoDB.Driver.xml
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository\obj\Debug\MongoDbRepository.dll
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository\obj\Debug\MongoDbRepository.pdb
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository\obj\Debug\MongoDbRepository.csprojResolveAssemblyReference.cache

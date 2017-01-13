@@ -1,0 +1,15 @@
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository.Test\bin\Debug\MongoDbRepository.Test.exe.config
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository.Test\bin\Debug\MongoDbRepository.Test.exe
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository.Test\bin\Debug\MongoDbRepository.Test.pdb
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository.Test\bin\Debug\MongoDB.Bson.dll
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository.Test\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository.Test\bin\Debug\MongoDB.Driver.dll
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository.Test\bin\Debug\MongoDbRepository.dll
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository.Test\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository.Test\bin\Debug\MongoDbRepository.pdb
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository.Test\bin\Debug\MongoDB.Bson.xml
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository.Test\bin\Debug\MongoDB.Driver.xml
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository.Test\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository.Test\obj\Debug\MongoDbRepository.Test.csprojResolveAssemblyReference.cache
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository.Test\obj\Debug\MongoDbRepository.Test.exe
+c:\users\sefa.can\documents\visual studio 2015\Projects\MongoDbRepository\MongoDbRepository.Test\obj\Debug\MongoDbRepository.Test.pdb
