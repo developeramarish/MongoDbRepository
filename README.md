@@ -3,5 +3,5 @@
 MongoDB Context and Repository Pattern for .NET
 
 <p>Project Dependencies : </p>
-<code>MongoDB.Driver <br>
-System.Runtime.InteropServices.RuntimeInformation</code>
+<code><p>MongoDB.Driver</p>
+<p>System.Runtime.InteropServices.RuntimeInformation</p></code>
